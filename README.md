@@ -16,9 +16,9 @@ It includes preprocessing (scaling), k-value tuning, and evaluation.
 ## Project Structure
 
 knn-classification-pima-diabetes/
-├── data/
-├── notebooks/
-├── src/
+├── data/ Pima Dataset
+├── notebooks/ Knn.ipynb
+├── src/ app.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
